@@ -1,0 +1,1420 @@
+ Error Log File - d:\almacen\proyectos\retropad\arcadia v1\modelos3d\sanwa joystick jlf-tp-8yt-w\sanwa_joystick_5.prt
+
+
+
+ The Version is Pro/ENGINEER VERSION - 31
+
+
+
+ FEATURE NUMBER		1
+
+ SOLIDWORKS FEATURE NAME		Origen
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownDatumPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		2
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownDatumPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		3
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownDatumPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		4
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DefaultCoordSysFeature
+
+ FEATURE TYPE	 CoordSys  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		5
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		6
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		7
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		8
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir1
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		9
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		10
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		11
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		12
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir2
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		13
+
+ SOLIDWORKS FEATURE NAME		Redondeo1
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		14
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		15
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir1
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		16
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir2
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		17
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir3
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		18
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir4
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		19
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		20
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir5
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		21
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir6
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		22
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir7
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		23
+
+ SOLIDWORKS FEATURE NAME		Cortar-Extruir8
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEHole1SidedBlindLinearStraight
+
+ FEATURE TYPE	 Hole  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		24
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		25
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		26
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		27
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		28
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir3
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		29
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir4
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		30
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir5
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		31
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir6
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		32
+
+ SOLIDWORKS FEATURE NAME		Redondeo2
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		33
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		34
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1104  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		35
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		36
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		37
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		38
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir7
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		39
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		40
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		41
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		42
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir8
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		43
+
+ SOLIDWORKS FEATURE NAME		Redondeo3
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		44
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1104  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		45
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		46
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		47
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		48
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir9
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		49
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		50
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		51
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		52
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir10
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		53
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		54
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1104  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		55
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		56
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		57
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		58
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir11
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		59
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		60
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		61
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		62
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir12
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		63
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		64
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1104  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		65
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		66
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		67
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		68
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir13
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		69
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		70
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		71
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		72
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir14
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		73
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		74
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		75
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		76
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		77
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir15
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		78
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		79
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		80
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		81
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir16
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		82
+
+ SOLIDWORKS FEATURE NAME		Redondeo4
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+
+
+ 
+ 
+ FEATURE NUMBER		83
+
+ SOLIDWORKS FEATURE NAME		Redondeo5
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		84
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		85
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		86
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		87
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir17
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		88
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		89
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		90
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		91
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir18
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 1SidedBlindExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		92
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ConstantEdgeRoundFeature
+
+ FEATURE TYPE	 Round  
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		93
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		94
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		95
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		96
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		97
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir19
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		98
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		99
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir20
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		100
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		101
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		102
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 DatumCurveFeature
+
+ FEATURE TYPE	 DatumCurve  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		103
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 BUGBUG_1232  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		104
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 SketchPlaneFeature
+
+ FEATURE TYPE	 DatumPlane  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		105
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir21
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		106
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ FEATURE NUMBER		107
+
+ SOLIDWORKS FEATURE NAME		Saliente-Extruir22
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ FEATURE NUMBER		108
+
+ DEFINE STATE	 defined using wild card   
+
+ FEATURE NAME	 UnknownExtrudedProtrusionFeature
+
+ FEATURE TYPE	 Protrusion  - Extrude 
+
+ CONVERSION STATUS	Failed in Conversion 
+ 
+ The error is unidentified 
+
+ 
+ 
+ 
+ 
+ 
+ The final status is : 
+ 
+ Geometric Features: 
+ 	  Fully defined :- 35
+ 	  Defined using wild cards :- 8
+ 	  [Problems in conversion:- 16]
+ 	  Undefined :- 0
+ 
+ No. of non-geometric features :- 65
